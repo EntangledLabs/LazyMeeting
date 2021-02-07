@@ -1,0 +1,13 @@
+# This header is necessary and must be included
+[event]
+
+# Time is given in a 24 hour clock, i.e. 9:30 for 9:30 A.M. or 15:49 for 3:39 P.M.
+time = 9:30
+
+# Declares the action to take. One of two options:
+# 'link' -> Opens a link in the web browser.
+# 'program' -> Opens a program.
+action_type = link
+
+# The link/url you want to open. For programs, enter the full program path.
+uri = https://www.google.com
