@@ -1,0 +1,9 @@
+events/period0
+events/period1
+events/period2
+events/period3
+events/period4
+events/period5
+events/period6
+*.pyc
+__pycache__/
